@@ -4,7 +4,7 @@ require dirname(__FILE__).'/Mykad.php';
 
 $myic = new Mykad();
 
-$result = $myic->output('000312115231');
+$result = $myic->output('000312115231'); // insert as string value 
 
 print "<pre>";
 print_r($result);
