@@ -8,6 +8,7 @@
  */
 
 namespace Mykad;
+
 class Mykad
 {
     private	$state;
