@@ -6,6 +6,8 @@
  * Date: 4/2/17
  * Time: 12:19 AM
  */
+
+namespace Mykad;
 class Mykad
 {
     private	$state;
