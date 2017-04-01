@@ -11,7 +11,7 @@ class Mykad
     private	$state;
     private	$gender;
     private	$dob;
-    private $age;
+    private	$age;
 
     public function output($mykad, $date_format='j F Y'){
         // Strip non-numeric chars
@@ -161,7 +161,7 @@ class Mykad
 
             $tmp_negeri = $this->state;
 
-            $code = intval($tmp_jantina);
+            $tmp_jantina = intval($mykad);
 
             if($tmp_jantina % 2 == 0) {
                 $this->gender = 'Perempuan';
@@ -177,7 +177,7 @@ class Mykad
                 'gender'    => $this->gender,
                 'years_old' =>$this->age
             );
-            return $detail;
+            return $detail; // as array
         }
         return false;
     }
