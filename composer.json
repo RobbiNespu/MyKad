@@ -1,0 +1,23 @@
+{
+  "name": "robbinespu/mycard",
+  "description": "Extract information from Malaysia identity card (MyKad)",
+  "keywords": ["Malaysia", "MyKad", "identity card", "Extract"],
+  "homepage": "https://github.com/RobbiNespu/MyKad",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Robbi Nespu",
+      "email": "robbinespu@gmail.com",
+      "homepage": "",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^5.3.3 || ^7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "Monolog": "src"
+    }
+  }
+}
