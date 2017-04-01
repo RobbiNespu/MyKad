@@ -1,5 +1,5 @@
 {
-  "name": "robbinespu/mycard",
+  "name": "robbinespu/mykad",
   "description": "Extract information from Malaysia identity card (MyKad)",
   "keywords": ["Malaysia", "MyKad", "identity card", "Extract"],
   "type": "library",
