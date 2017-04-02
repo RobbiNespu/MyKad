@@ -5,7 +5,7 @@ A simple packagist to extract information from Malaysian Identity Card (MyKad)
 # Installation
 
 ```
-composer require robbinespu/mycard
+composer require robbinespu/mykad
 ```
 
 # Usage
