@@ -7,7 +7,7 @@
  * Time: 12:19 AM
  */
 
-namespace Mykad;
+namespace ExtractMykad;
 
 class Mykad
 {
@@ -16,7 +16,7 @@ class Mykad
   private	$dob;
   private	$age;
 
-  public static function output($mykad, $date_format='j F Y'){
+  public function output($mykad, $date_format='j F Y'){
       // Strip non-numeric chars
       $ic_no = preg_replace('/[^0-9]/', '', $mykad);
 
@@ -184,9 +184,4 @@ class Mykad
       }
       return false;
   }
-
-    public static function sayHelloWorld() {
-      return 'Hello World';
-    }
-
 }

@@ -1,16 +1,11 @@
 <?php
-require_once '../src/Mykad.php';
+require_once '../src/ExtractMykad.php';
 
-$myic = new Mykad\Mykad(); 
- 
-$result = $myic->output('991121097431'); // insert as string value  
- 
-print "<pre>"; 
-print_r($result); 
-print "</pre>"; 
- 
-$json1 = json_encode($result); 
- 
-print "<pre>"; 
-print_r($json1); 
-print "</pre>"; 
+use ExtractMykad\MyKad;
+
+$ic = new MyKad;
+
+print "<pre>";
+print_r($ic->output('991121097431'));
+print "</pre>\n";
+echo json_encode($ic->output('991121097431', JSON_PRETTY_PRINT));
