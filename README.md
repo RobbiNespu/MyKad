@@ -7,6 +7,7 @@
 [![Daily Downloads](https://poser.pugx.org/robbinespu/mykad/d/daily)](https://packagist.org/packages/robbinespu/mykad)
 [![Monthly Downloads](https://poser.pugx.org/robbinespu/mykad/d/monthly)](https://packagist.org/packages/robbinespu/mykad)
 [![Total Downloads](https://poser.pugx.org/robbinespu/mykad/downloads)](https://packagist.org/packages/robbinespu/mykad)
+[![composer.lock](https://poser.pugx.org/robbinespu/mykad/composerlock)](https://packagist.org/packages/robbinespu/mykad)
 
 # MyKad
 
