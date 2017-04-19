@@ -3,13 +3,13 @@
   "description": "Extract information from Malaysia identity card (MyKad)",
   "keywords": ["Malaysia", "MyKad", "identity card", "Extract"],
   "type": "library",
-  "homepage": "https://github.com/RobbiNespu/MyKad",
   "license": "MIT",
+  "homepage": "https://github.com/RobbiNespu/MyKad",
   "authors": [
     {
       "name": "Robbi Nespu",
       "email": "robbinespu@gmail.com",
-      "homepage": "",
+      "homepage": "https://robbinespu.github.io",
       "role": "Developer"
     }
   ],
