@@ -9,6 +9,7 @@
 [![Total Downloads](https://poser.pugx.org/robbinespu/mykad/downloads)](https://packagist.org/packages/robbinespu/mykad)
 [![composer.lock](https://poser.pugx.org/robbinespu/mykad/composerlock)](https://packagist.org/packages/robbinespu/mykad)
 [![Build Status](https://travis-ci.org/RobbiNespu/MyKad.svg?branch=master)](https://travis-ci.org/RobbiNespu/MyKad)
+[![Dependency Status](https://www.versioneye.com/user/projects/58f86ded710da20054a734c6/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58f86ded710da20054a734c6)
 
 # MyKad
 
