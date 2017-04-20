@@ -10,7 +10,7 @@
 [![composer.lock](https://poser.pugx.org/robbinespu/mykad/composerlock)](https://packagist.org/packages/robbinespu/mykad)
 [![Build Status](https://travis-ci.org/RobbiNespu/MyKad.svg?branch=master)](https://travis-ci.org/RobbiNespu/MyKad)
 [![Dependency Status](https://www.versioneye.com/user/projects/58f86ded710da20054a734c6/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58f86ded710da20054a734c6)
-
+[![Dependency Status](https://www.versioneye.com/user/projects/58f86ded710da20054a734c6/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58f86ded710da20054a734c6)
 # MyKad
 
 A simple packagist to extract information from Malaysian Identity Card (MyKad)
